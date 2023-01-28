@@ -15,6 +15,11 @@
 <img src="https://img.shields.io/github/stars/henriquemap/sasori">
 <img src="https://img.shields.io/github/license/henriquemap/sasori">
 </div>
+<br>
+<div align=center>
+<a href="https://wakatime.com/badge/user/1e53636e-c916-4d50-9ce1-f3ac75a883e3/project/83c9b5c1-fbb3-4de0-a43f-05a86ca98fd7"><img src="https://wakatime.com/badge/user/1e53636e-c916-4d50-9ce1-f3ac75a883e3/project/83c9b5c1-fbb3-4de0-a43f-05a86ca98fd7.svg" alt="wakatime"></a>
+</div>
+<br>
 <hr>
 
 Data: 07/01/2023
