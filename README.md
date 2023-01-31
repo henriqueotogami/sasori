@@ -2,18 +2,18 @@
 
 # Estudos de Java Swing
 
-<img width="auto" src="https://github.com/HenriqueMAP/sasori/blob/main/henriquemap-sasori-readme-header.png?raw=true">
+<img width="auto" src="https://github.com/henriqueotogami/sasori/blob/main/henriqueotogami-sasori-readme-header.png?raw=true">
 
 <br>
 <br>
 <div align="center">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/henriquemap/sasori">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/henriqueotogami/sasori">
 </div>
 <br>
-<img src="https://img.shields.io/github/issues/henriquemap/sasori">
-<img src="https://img.shields.io/github/forks/henriquemap/sasori">
-<img src="https://img.shields.io/github/stars/henriquemap/sasori">
-<img src="https://img.shields.io/github/license/henriquemap/sasori">
+<img src="https://img.shields.io/github/issues/henriqueotogami/sasori">
+<img src="https://img.shields.io/github/forks/henriqueotogami/sasori">
+<img src="https://img.shields.io/github/stars/henriqueotogami/sasori">
+<img src="https://img.shields.io/github/license/henriqueotogami/sasori">
 </div>
 <br>
 <div align=center>
@@ -57,7 +57,7 @@ Curso: [Cod3r | Java 2022 Completo](https://www.udemy.com/course/fundamentos-de-
 
 > ### Caso você queira ajudar a melhorar este repositório, qualquer ajuda é bem vinda.
 
-- [x] Faça um **fork** deste repositório (https://github.com/HenriqueMAP/sasori/fork);
+- [x] Faça um **fork** deste repositório (https://github.com/henriqueotogami/sasori/fork);
 - [x] Crie um **branch** para adicionar as suas modificações ` git checkout -b meu-novo-recurso `;
 - [x] Faça um **commit** ` git commit -am 'feature: Breve descrição do novo recurso ...'`;
 - [x] Faça um **push** ` git push origin meu-novo-recurso ` ;
