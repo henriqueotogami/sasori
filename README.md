@@ -2,7 +2,7 @@
 
 # Estudos de Java Swing
 
-<img width="auto" src="https://github.com/henriqueotogami/sasori/blob/main/henriqueotogami-sasori-readme-header.png?raw=true">
+<img width="auto" src="https://github.com/henriqueotogami/sasori/blob/main/henriquemap-sasori-readme-header.png?raw=true">
 
 <br>
 <br>
